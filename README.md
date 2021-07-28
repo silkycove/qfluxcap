@@ -6,4 +6,4 @@ Visualize quantum computing results on an LED display like the flux capacitor in
 [Click here for the video](https://vimeo.com/579827907)
 
 # Acknowledgement
-This project is inspired by https://github.com/KPRoche/quantum-raspberry-tie.
+This project is inspired by https://github.com/KPRoche/quantum-raspberry-tie and https://medium.com/qiskit/rasqberry-quantum-computing-is-the-coolest-project-for-raspberry-pi-3f64bec5a133.
